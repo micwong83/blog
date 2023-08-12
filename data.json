@@ -14,5 +14,39 @@
         "title": "Navigating Corporate Communication Challenges",
         "description": "Discover strategies for addressing communication hurdles within a corporate environment to maintain a productive and harmonious atmosphere."
     },
-    // Add more articles here
+    {
+        "image": "4.png",
+        "title": "The Art of Business Blogging",
+        "description": "Master the techniques of crafting insightful and informative blog posts that establish thought leadership in your industry."
+    },
+    {
+        "image": "5.png",
+        "title": "Effective Networking for Professionals",
+        "description": "Learn valuable networking strategies to expand your professional circle and open doors to new opportunities."
+    },
+    {
+        "image": "6.png",
+        "title": "Balancing Work and Creative Writing",
+        "description": "Discover methods to balance your professional commitments with your passion for creative writing, leading to a fulfilling and productive lifestyle."
+    },
+    {
+        "image": "7.png",
+        "title": "The Psychology of Engaging Content",
+        "description": "Dive into the psychological principles that drive audience engagement and create content that resonates deeply with your readers."
+    },
+    {
+        "image": "8.png",
+        "title": "Overcoming Writer's Block in Professional Writing",
+        "description": "Explore proven techniques for overcoming writer's block when working on business-related writing projects."
+    },
+    {
+        "image": "9.png",
+        "title": "Strategies for Effective Email Communication",
+        "description": "Learn how to write impactful and professional emails that convey your message clearly and lead to desired outcomes."
+    },
+    {
+        "image": "10.png",
+        "title": "Building a Personal Brand through Writing",
+        "description": "Discover the steps to establish a strong personal brand by using writing as a tool for self-expression and self-promotion."
+    }
 ]
